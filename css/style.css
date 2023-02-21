@@ -43,9 +43,7 @@ main {
 * {
     padding: 0;
     margin: 0;
-    font-family: Roboto,Arial,sans-serif;
 }
-
 .login {
     background-color: white;
     border: none;
